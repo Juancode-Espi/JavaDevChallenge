@@ -1,13 +1,13 @@
-package com.test.amaris;
+package com.test.challengeJava;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AmarisApplication {
+public class ChallengeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AmarisApplication.class, args);
+		SpringApplication.run(ChallengeApplication.class, args);
 	}
 
 }
